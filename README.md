@@ -82,7 +82,7 @@ npm install
 Create a `.env` file in the backend directory:
 ```env
 PORT=3000
-MONGO_URI=mongodb+srv://your-username:your-password@cluster0.xxxxx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+MONGO_URI=your_mongodb_uri
 JWT_SECRET=your-super-secret-jwt-key
 FRONTEND_URL=http://localhost:5173
 BACKEND_URL=http://localhost:3000
@@ -304,18 +304,3 @@ Yizus_Project/
 4. **Socket.IO Connection Issues**:
    - Verify both frontend and backend are running
    - Check for firewall blocking WebSocket connections
-
-## 📄 License
-
-This project is licensed under the ISC License.
-
-## 👥 Support
-
-For support and questions:
-- Create an issue in the repository
-- Check existing documentation
-- Review the troubleshooting section
-
----
-
-**Threadly** - Connecting Professionals, Building Careers 🚀
