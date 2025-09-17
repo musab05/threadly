@@ -64,7 +64,7 @@ Before running this project, make sure you have the following installed:
 ### 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd Yizus_Project
+cd threadly
 ```
 
 ### 2. Backend Setup
