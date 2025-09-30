@@ -50,6 +50,18 @@ A modern, full-stack professional networking platform built with React, Node.js,
 - **Multer** - File upload handling
 - **CORS** - Cross-origin resource sharing
 
+## 📸 Screenshots
+
+<div align="center">
+
+| | | |
+|---|---|---|
+| ![Authentication](./screenshots/signin.png) | ![Dashboard](./screenshots/dashboard.png) | ![Profile](./screenshots/profile.png) |
+| ![Job Board](./screenshots/jobs.png) | ![Create Post](./screenshots/create-post.png) | ![Messaging](./screenshots/messaging.png) |
+| ![Network](./screenshots/network.png) | ![Applications](./screenshots/applications.png) | ![Notifications](./screenshots/notifications.png) |
+
+</div>
+
 ## 📋 Prerequisites
 
 Before running this project, make sure you have the following installed:
