@@ -56,11 +56,17 @@ A modern, full-stack professional networking platform built with React, Node.js,
 
 | | | |
 |---|---|---|
-| ![Authentication](./screenshots/signin.png) | ![Dashboard](./screenshots/dashboard.png) | ![Profile](./screenshots/profile.png) |
-| ![Job Board](./screenshots/jobs.png) | ![Create Post](./screenshots/create-post.png) | ![Messaging](./screenshots/messaging.png) |
-| ![Network](./screenshots/network.png) | ![Applications](./screenshots/applications.png) | ![Notifications](./screenshots/notifications.png) |
+| ![Screenshot 1](./Screenshot%202025-09-30%20133156.png) | ![Screenshot 2](./Screenshot%202025-09-30%20133207.png) | ![Screenshot 3](./Screenshot%202025-09-30%20133255.png) |
+| ![Screenshot 4](./Screenshot%202025-09-30%20134725.png) | ![Screenshot 5](./Screenshot%202025-09-30%20134811.png) | ![Screenshot 6](./Screenshot%202025-09-30%20134841.png) |
+| ![Screenshot 7](./Screenshot%202025-09-30%20134859.png) | ![Screenshot 8](./Screenshot%202025-09-30%20135246.png) | ![Screenshot 9](./Screenshot%202025-09-30%20135257.png) |
+| ![Screenshot 10](./Screenshot%202025-09-30%20135307.png) | ![Screenshot 11](./Screenshot%202025-09-30%20135322.png) | ![Screenshot 12](./Screenshot%202025-09-30%20135333.png) |
+| ![Screenshot 13](./Screenshot%202025-09-30%20135415.png) | ![Screenshot 14](./Screenshot%202025-09-30%20135519.png) | ![Screenshot 15](./Screenshot%202025-09-30%20135540.png) |
+
+![Screenshot 16](./Screenshot%202025-09-30%20135551.png)
 
 </div>
+
+---
 
 ## 📋 Prerequisites
 
